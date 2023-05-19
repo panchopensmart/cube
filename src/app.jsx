@@ -1,5 +1,4 @@
-import React from 'preact/compat';
-import Scene from './game/Scene';
+import Scene from './game/Scene.jsx';
 import './app.css';
 export function App() {
     return (
